@@ -1,0 +1,7 @@
+<p class="progress-text">HDD Storage: ', formatBytes(info.total - info.available), ' / ', formatBytes(info.total), '</p> \
+<progress value="', (((info.total - info.available) / info.total) * 100).toFixed(0), '" max="100"></progress> \
+
+^ This came between
+<div class="progress-wrapper"> \
+ X
+</div></div> \
