@@ -1,0 +1,234 @@
+:root {
+    --lightest-gray: #dbdbdb;
+    --light-gray: #bdbdbd;
+    --gray: #333333;
+    --light-green: #75e27a;
+    --light-red: #f36767;
+    --global-font-family: 'Courier New', Courier, monospace;
+    --dark-green: #002c00;
+}
+
+a.b-link:link {
+    color: green;
+}
+
+a.b-link:visited {
+    color: green;
+}
+
+a.b-link:hover {
+    color: var(--light-green);
+}
+
+a.b-link:active {
+    color: var(--dark-green);
+}
+
+.good {
+    color: green;
+    text-decoration: underline;
+}
+
+.bad {
+    color: red;
+    text-decoration: underline;
+}
+
+nav {
+    background-color: var(--gray);
+    color: white;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+body {
+    font-family: var(--global-font-family);
+}
+
+nav a {
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+    margin-right: 38px;
+    white-space: nowrap;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+nav a.inactive-link {
+    pointer-events: none;
+    color: var(--light-gray);
+    text-decoration: none;
+    cursor: default;
+    white-space: nowrap;
+}
+
+.searchbox {
+    height: 20px;
+    width: 250px;
+    appearance: none;
+    border-radius: 0px;
+    border: 1px solid #000 ;
+    font-family: var(--global-font-family);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+table {
+    text-align: left;
+    white-space: nowrap;
+}
+
+td {
+    text-align: left;
+    padding-right: 8px;
+    white-space: nowrap;
+    /* Set the border width and color */
+    text-align: left;
+    font-weight: normal;
+    font-family: var(--global-font-family);
+    white-space: nowrap;
+}
+
+tr {
+    white-space: nowrap;
+}
+
+.explorer-top {
+    margin-top: 10px;
+}
+
+.progress-container {
+    text-align: left;
+    margin-bottom: 8px;
+    height: 29px;
+}
+
+.progress-container.last {
+    margin-bottom: 5px;
+}
+
+.progress-wrapper {
+    position: relative;
+}
+
+button {
+    background-color: var(--lightest-gray);
+    font-size: 14px;
+    height: 18px;
+    color: black;
+    appearance: none;
+    font-family: var(--global-font-family);
+    border: 1px solid #000;
+    appearance: none;
+}
+
+td.movie-cell {
+    max-width: 700px;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+img.cabbage-logo {
+    margin-right: 31px;
+    height: 39px;
+    width: 35px;
+}
+
+div.search-container {
+    margin-top: 8px;
+}
+
+button.search-button {
+    background-color: var(--lightest-gray);
+    font-size: 14px;
+    height: 22px;
+    color: black;
+    appearance: none;
+    font-family: var(--global-font-family);
+    border: 1px solid #000;
+    appearance: none;
+    margin-top: 1px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+select {
+    max-width: 240px;
+    background-color: var(--lightest-gray);
+    font-size: 14px;
+    color: black;
+    appearance: none;
+    font-family: var(--global-font-family);
+    border: 1px solid #000;
+}
+
+.new-folder {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.path-links {
+    font-size: 14px;
+}
+
+.countdown {
+    font-size: 24px;
+}
+
+button.reboot-button {
+    margin-top: 19px;
+    width: 504px;
+    height: 34px;
+    background-color: var(--light-gray);
+    font-size: 24px;
+    color: black;
+    border: 2px solid #000;
+    appearance: none;
+}
+
+p.progress-text {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    margin-left: 5px;
+    font-size: 24px;
+}
+
+div.home-info {
+    margin-top: 25px;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 0px;
+    width: 500px;
+}
+
+progress {
+    width: 500px;
+    height: 34px;
+    appearance: none;
+}
+
+progress::-webkit-progress-bar {
+    background-color: var(--light-gray);
+}
+
+progress::-webkit-progress-value {
+    background-color: var(--light-green);
+}
+
+progress.progress-good::-webkit-progress-value {
+    background-color: var(--light-green);
+}
+
+progress.progress-bad::-webkit-progress-value {
+    background-color: var(--light-red);
+}
