@@ -25,7 +25,9 @@ Movies/
     Home Alone 2 Lost in New York.mp4
     Home Alone.mp4
     How the Grinch Stole Christmas.mp4
+    Our Little Secret.mkv
     Rudolph The Red-Nosed Reindeer - The Movie.avi
+    The Merry Gentlemen.mp4
     The Polar Express.mp4
     The Santa Clause 2.mp4
     The Santa Clause 3 - The Escape Clause.mp4
@@ -1540,3 +1542,15 @@ TV/
       Virgin River S05E10.mkv
       Virgin River S05E11.mkv
       Virgin River S05E12.mkv
+    Season 6/
+      Virgin.River.S06E01.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E02.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E03.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E04.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E05.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E06.1080p.WEB.h264-ETHEL.mkv
+      Virgin.River.S06E07.1080p.WEB.h264-ETHEL.mkv
+      Virgin.River.S06E08.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E09.1080p.WEB.H264-SuccessfulCrab.mkv
+      Virgin.River.S06E10.1080p.WEB.H264-SuccessfulCrab.mkv
+      [TGx]Downloaded from torrentgalaxy.to .txt
