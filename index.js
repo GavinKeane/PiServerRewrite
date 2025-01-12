@@ -603,7 +603,7 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-cron.schedule('0 5 * * *', () => {
+cron.schedule('0 5 * * 1', () => {
   const { execSync } = require('child_process');
   execSync("sudo apt update");
   execSync("sudo apt upgrade -y");
