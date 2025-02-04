@@ -2,5 +2,5 @@
 if pgrep -f "Windscribe" &>/dev/null; then
 	echo "CONNECTED"
 else
-	echo "DISCONNECTED
+	echo "DISCONNECTED"
 fi
