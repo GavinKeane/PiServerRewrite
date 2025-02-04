@@ -48,7 +48,6 @@ Movies/
     Fantastic Beasts and Where to Find Them.mp4
   Fight Club.mp4
   Find Me Falling.mkv
-  First Daughter.mkv
   First Man.mkv
   Fletch.mp4
   Flight.mp4
@@ -110,19 +109,18 @@ Movies/
   Primal Fear.mkv
   Queenpins.mp4
   Safe Haven.mp4
+  Saturday Night.mkv
   Schindler's List.mp4
   Sex and the City/
     Sex and the City 2.mp4
     Sex and the City.mp4
   Shutter Island.mp4
   Some Like It Hot.mp4
-  South Park - The End of Obesity.mkv
   Split.mp4
   Tenet.mp4
   Terminator/
     Terminator 2.mp4
     The Terminator.mp4
-  The Abyss.mkv
   The Beekeeper.mp4
   The Best of Me.mp4
   The Big Lebowski.mp4
@@ -133,6 +131,7 @@ Movies/
   The Departed.mp4
   The Emperor's New Groove.mp4
   The Eras Tour.mkv
+  The Greatest Showman.mkv
   The Green Mile.mp4
   The Holdovers.mkv
   The Hunger Games.mp4
